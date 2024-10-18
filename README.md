@@ -1,6 +1,10 @@
 # Lernperiode-7
  
 18.10.2024 bis 20.12.2024
+
+## Grobplanung
+
+Ich strebe immernoch die note 5 im QV das bedeutet. Mein Ziel ist es, dass ich bei jeder Modulnote eine 5 haben werde.
  
 ## 18.10.2024
 
