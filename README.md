@@ -4,7 +4,7 @@
 
 ## Grobplanung
 
-Ich strebe immernoch die note 5 im QV das bedeutet. Mein Ziel ist es, dass ich bei jeder Modulnote eine 5 haben werde.
+Ich strebe immernoch die note 5 im QV an das bedeutet. Mein Ziel ist es, dass ich bei jeder Modulnote eine 5 haben werde.
  
 ## 18.10.2024
 
