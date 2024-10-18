@@ -1,16 +1,11 @@
 # Lernperiode-7
  
-16.8 bis 20.9.2024
+18.10.2024 bis 20.12.2024
  
-## Grob-Planung
+## 18.10.2024
+
+Heute werde ich mich mit dem Modul 320 nochmals beschäftigen. Vorallem nochmals anschauen, wo ich noch nicht ganz sicher bin. Ich werde mich für die LB vorbereiten. Vorallem die Geschichte mit dem Erben werde ich mir nochmals anschauen. Heute werde ich auch noch weiter an der OBA für das Modul 320 arbeiten.
+
+## 25.10.2024
  
-1. Ich habe eine 5.5 im QV und ich bin sehr zufrieden mit meiner Arbeit bis jetzt.
- 
-## 16.8.2024
- 
- 
-## 23.8.2024
- 
-- [ ] Modul 320
-- [ ]
 
