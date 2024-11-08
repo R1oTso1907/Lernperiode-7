@@ -1,4 +1,6 @@
 # Lernperiode-7
+
+Mein Notenziel für das Modul 249 ist eine 5. Für das Modul 346 ist es eine 5.5.
  
 18.10.2024 bis 20.12.2024
 
@@ -20,3 +22,10 @@ Heute werde ich vorallem für die LB 320 lernen. Unit Test sowie auch Polymorphi
 ## 08.11.2024
 
 Heute werde ich für die OBA im Modul 294 lernen. Es handelt sich um einen Test, über die Themen, die wir im Unterricht hatten. Zusätzlich werde ich mich heute zum ersten mal mit react auseinander setzen, da ich es spannend finde und mir helfen könnte javascript besser zu verstehen. 
+
+
+
+
+
+
+
