@@ -14,3 +14,10 @@ Heute werde ich mich mit dem Modul 320 nochmals beschäftigen. Vorallem nochmals
 
 Heute werde ich mich für die LB im Modul 320 vorbereiten. Vorallem das effizientere UML-Diagramm Lesen muss ich mich angewöhnen. Oder auch die verschiedenen Features, die uns VS anbietet zu erlernen und verstehen. Ausserdem werde ich mich für die OBA im Modul 294 vorbereiten. Ich möchte mich auch mehr mit javascript ausseinander setzen.
 
+## 01.11.2024
+owie auch Polymorphismus, muss ich mir besser anschauen. Für das Modul 294 werde ich das Thema DOM anschauen.
+
+## 08.11.2024
+
+Heute werde ich vorallem für die LB 320 lernen. Unit Test s
+Heute werde ich für die OBA im Modul 294 lernen. Es handelt sich um einen Test, über die Themen, die wir im Unterricht hatten. Zusätzlich werde ich mich heute zum ersten mal mit react auseinander setzen, da ich es spannend finde und mir helfen könnte javascript besser zu verstehen. 
