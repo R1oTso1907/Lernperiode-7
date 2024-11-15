@@ -1,6 +1,6 @@
 # Lernperiode-7
 
-Mein Notenziel für das Modul 249 ist eine 5. Für das Modul 346 ist es eine 5.5.
+Mein Notenziel für das Modul 249 ist eine 5. Für das Modul 346 ist es eine 5.5. Für das Modul 450 ist es eine Note 5.
  
 18.10.2024 bis 20.12.2024
 
