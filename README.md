@@ -27,6 +27,11 @@ Heute werde ich für die OBA im Modul 294 lernen. Es handelt sich um einen Test,
 
 Heute werde ich für die Module 294 und 346 arbeiten. Im Modul 294 werde ich für die nächste OBA lernen. Die Themen Git und ClientSideRouting werden das Thema sein. Um dies zu üben, werde ich die Aufgabe 8460 nochmals machen. Für das Modul 346 werde ich vorallem üben, instanzen auf AWS zu machen und diese dann mit 0711 und 0712. Da ich am Montag bisschen Schweirigkeiten hatte, werde ich es Heute nochmal versuchen. 
 
+## 22.11.2024
+
+Heute werde ich einen Fokus auf das Modul 294 setzen. Nächste Woche wird die LB beginnen und für diese werde ich die Aufgaben CRUD, JWT und auch den Json-server besser anschauen. Zudem werde ich auch noch im Modul 450 das Mocking testen anschauen (LA_6950).
+
+
 
 
 
