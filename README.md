@@ -31,7 +31,13 @@ Heute werde ich für die Module 294 und 346 arbeiten. Im Modul 294 werde ich fü
 
 Heute werde ich einen Fokus auf das Modul 294 setzen. Nächste Woche wird die LB beginnen und für diese werde ich die Aufgaben CRUD, JWT und auch den Json-server besser anschauen. Zudem werde ich auch noch im Modul 450 das Mocking testen anschauen (LA_6950).
 
+## 29.11.2024
 
+Heute werde ich vorallem für verschiedene LB's gearbeitet. Im Moment haben wir viel zu tun und haben nächste Woche 2 LB's und eine OBA. Bei der LB 346 habe ich Zugriff auf meine Deupal Website zwar, jedoch habe ich das Problem, dass CSS nicht ladet und somit sieht es Visuell nicht ansprechend aus und das muss ich für eine erfolgreiche LB auf jeden Fall ändern. Bei der LB 294 muss ich eine Authentifizierung programmieren und das mit der Funtkionalität JWT. Für die OBA muss ich mich ebenfalls viel mit theoretischem beschäftigen. Vorallem finde ich JWT wichtig für die OBA.
+
+## 06.12.2024
+
+Heute werde ich für das Modul 450 anschauen. Ich möchte nächste Woche nicht in Zeit druck sein, daher werde ich heute den Auftrag 6971 machen. Zudem werde ich heute ein Projekt starten und probieren eine Website zu entwickeln, die Daten von externen API's bezieht und Darstellt. 
 
 
 
