@@ -33,7 +33,7 @@ Heute werde ich einen Fokus auf das Modul 294 setzen. Nächste Woche wird die LB
 
 ## 29.11.2024
 
-Heute werde ich vorallem für verschiedene LB's arbeiten. Im Moment haben wir viel zu tun und haben nächste Woche 2 LB's und eine OBA. Bei der LB 346 habe ich Zugriff auf meine Deupal Website zwar, jedoch habe ich das Problem, dass CSS nicht ladet und somit sieht es Visuell nicht ansprechend aus und das muss ich für eine erfolgreiche LB auf jeden Fall ändern. Bei der LB 294 muss ich eine Authentifizierung programmieren und das mit der Funtkionalität JWT. Für die OBA muss ich mich ebenfalls viel mit theoretischem beschäftigen. Vorallem finde ich JWT wichtig für die OBA.
+Heute werde ich vorallem für verschiedene LB's arbeiten. Im Moment haben wir viel zu tun und haben nächste Woche 2 LB's und eine OBA. Bei der LB 346 habe ich Zugriff auf meine Drupal Website zwar, jedoch habe ich das Problem, dass CSS nicht ladet und somit sieht es Visuell nicht ansprechend aus und das muss ich für eine erfolgreiche LB auf jeden Fall ändern. Bei der LB 294 muss ich eine Authentifizierung programmieren und das mit der Funtkionalität JWT. Für die OBA muss ich mich ebenfalls viel mit theoretischem beschäftigen. Vorallem finde ich JWT wichtig für die OBA.
 
 ## 06.12.2024
 
