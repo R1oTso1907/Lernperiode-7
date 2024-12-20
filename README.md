@@ -39,6 +39,12 @@ Heute werde ich vorallem für verschiedene LB's arbeiten. Im Moment haben wir vi
 
 Heute werde ich für das Modul 450 anschauen. Ich möchte nächste Woche nicht in Zeit druck sein, daher werde ich heute den Auftrag 6971 machen. Zudem werde ich heute ein Projekt starten und probieren eine Website zu entwickeln, die Daten von externen API's bezieht und Darstellt. 
 
+## 13.12.2024
 
+Heute werde ich am Modul 450 arbeiten, genauer gesagt am Auftrag LA_6980.Zu dem werde ich auch das Tutorial auf Linkedin Learn studieren und probieren es nach zu machen. Ich probiere mein Projekt mit der externen API heute fertig zu stellen. 
+
+## 20.12.2024
+
+Heute werde ich weiter an der LB-450 arbeiten, da es ein recht aufwendiges Modul ist und ich in den Ferien wenig Zeit habe. Auch weil ich nicht in Zeitdruck geraten möchte nach den Ferien. Heute probiere ich das lange Tutorial auf Linkedin Learn zu beenden. Das bezieht sich auf das Modul 295. Ich habe ein Problem beim abschauen und möchte das Heute lösen. 
 
 
